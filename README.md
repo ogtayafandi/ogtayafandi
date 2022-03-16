@@ -4,7 +4,7 @@
 
 - 💼 &nbsp; Working as a Front-End Developer at Optima Business Solutions MMC.
 - 🌱 &nbsp; I'm constantly working to learn my business better.
-- ✍️ &nbsp; As a hobby, I like to deal with Graphic Design and play video games.
+- ✍️ &nbsp; As a hobby, I like to deal with graphic design and play video games.
 
 <h3> 🛠 Tech Stack </h3>
 
