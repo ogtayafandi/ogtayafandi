@@ -1,7 +1,5 @@
 ### Hi there! I'm Oktay 👋
 
-<br/>
-
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 💼 &nbsp; Working as a Front-End Developer at Optima Business Solutions MMC.
