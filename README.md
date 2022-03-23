@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💼 &nbsp; Working as a Front-End Developer at Optima Business Solutions MMC.
+- 💼 &nbsp; Working as a Front-End Developer at Optima Group CO.
 - 🌱 &nbsp; I'm constantly working to learn my work better.
 - ✍️ &nbsp; As a hobby, I like to deal with graphic design and play video games.
 
