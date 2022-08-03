@@ -12,7 +12,7 @@
 
 - 🌐 &nbsp; HTML | CSS(SCSS/SASS/LESS) | JavaScript (TypeScript) | JQuery | ReactJS | React Native
 - 💻 &nbsp; C#
-- 🎨 &nbsp; Bootstrap 3+/4+ | AntDesign | Material UI
+- 🎨 &nbsp; Bootstrap 3+/4+/5+ | AntDesign | Material UI
 - 🔧 &nbsp; Git | Postman
 - 🖥 &nbsp; Adobe Photoshop | Adobe Illustrator | Figma | Adobe XD
 
