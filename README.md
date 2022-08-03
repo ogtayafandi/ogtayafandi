@@ -10,7 +10,7 @@
 
 <h3> 🛠 Tech Stack </h3>
 
-- 🌐 &nbsp; HTML | CSS(SCSS/SASS/LESS) | JavaScript (TypeScript) | JQuery | ReactJS
+- 🌐 &nbsp; HTML | CSS(SCSS/SASS/LESS) | JavaScript (TypeScript) | JQuery | ReactJS | React Native
 - 💻 &nbsp; C#
 - 🎨 &nbsp; Bootstrap 3+/4+ | AntDesign | Material UI
 - 🔧 &nbsp; Git | Postman
