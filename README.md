@@ -11,7 +11,7 @@
 <h3> 🛠 Tech Stack </h3>
 
 - 🌐 &nbsp; HTML | CSS(SCSS/SASS/LESS) | JavaScript (TypeScript) | JQuery | ReactJS
-- 📱 &nbsp;  React Native | Flutter
+- 📱  &nbsp; React Native | Flutter
 - 💻 &nbsp; C# | Dart
 - 🎨 &nbsp; Bootstrap 3+/4+/5+ | AntDesign | Material UI
 - 🔧 &nbsp; Git | Postman | Swagger
