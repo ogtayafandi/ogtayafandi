@@ -10,12 +10,12 @@
 
 <h3> 🛠 Tech Stack </h3>
 
-- 🌐 &nbsp; HTML | CSS(SCSS/SASS/LESS) | JavaScript (TypeScript) | JQuery | ReactJS
-- 📱 &nbsp; Flutter | React Native (less experience)
-- 💻 &nbsp; Dart
-- 🎨 &nbsp; Bootstrap 3+/4+/5+ | AntDesign | Material UI
-- 🔧 &nbsp; Git | Postman | Swagger
-- 🖥 &nbsp; Adobe Photoshop | Adobe Illustrator | Figma | Adobe XD
+ • 🌐  HTML | CSS(SCSS/SASS/LESS) | JavaScript (TypeScript) | JQuery | React
+ • 📱  Flutter | React Native (less experience)
+ • 🎨  Bootstrap 3+/4+/5+ | AntDesign | Material UI
+ • 🔧  Git | Postman | Swagger
+ • 🖥  Adobe Photoshop | Adobe Illustrator | Figma | Adobe XD
+
 
 <br/>
 
