@@ -14,7 +14,7 @@
 - 📱 &nbsp; Flutter | React Native (less experience)
 - 🎨 &nbsp; Bootstrap 3+/4+/5+ | AntDesign | Material UI
 - 🔧 &nbsp; Git | Postman | Swagger
-- 📱 &nbsp; Figma | Adobe XD | Adobe Photoshop | Adobe Illustrator
+- 🖥 &nbsp; Figma | Adobe XD | Adobe Photoshop | Adobe Illustrator
 
 <br/>
 
