@@ -11,7 +11,7 @@
 <h3> 🛠 Tech Stack </h3> 
 
 - 🌐 &nbsp; HTML | CSS(SCSS/SASS/LESS) | JavaScript (TypeScript) | JQuery | React
-- 📱 &nbsp; React Native | Flutter (less experience)
+- 📱 &nbsp; React Native (less experience)
 - 🎨 &nbsp; Bootstrap 3+/4+/5+ | AntDesign | Material UI
 - 🔧 &nbsp; Git | Postman | Swagger
 - 🖥 &nbsp; Figma | Adobe XD | Adobe Photoshop | Adobe Illustrator
