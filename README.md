@@ -4,7 +4,6 @@
 
 - 💼 &nbsp; Working as a Front-End Developer at Optima Group CO.
 - 🌱 &nbsp; I'm constantly working to learn my work better.
-- ✍️ &nbsp; I am dealing with Graphic Design and Art Direction as a hobby.
 
 <br/>
 
