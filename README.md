@@ -7,7 +7,8 @@
   
 <br/>
 
-<h3> 🛠 Tech Stack </h3> 
+<h3> 👨🏻‍💻 About Me </h3>
+
 - 💼 &nbsp; Working as a Front-End Developer at Apertech ERP Solutions.
 - 🌱 &nbsp; I'm constantly working to learn my work better.
   
