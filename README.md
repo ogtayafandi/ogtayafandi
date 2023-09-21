@@ -12,7 +12,9 @@
 - 🌐 &nbsp; HTML | CSS (SCSS/SASS/LESS) | JavaScript | TypeScript | React | Next
 - 📱 &nbsp; React Native
 - 🎨 &nbsp; Bootstrap | AntDesign | Material UI | Tailwind | PrimeReact
-  
+- 🔧 &nbsp; Git | Github | Gitlab
+- 🖥 &nbsp; Figma | Adobe XD | Adobe Photoshop | Adobe Illustrator
+
 <br/>
 
 <h3> 🤝🏻 Connect with Me </h3>
