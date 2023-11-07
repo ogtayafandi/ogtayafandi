@@ -11,7 +11,7 @@
 
 - 🌐 &nbsp; HTML | CSS (SCSS/SASS/LESS) | JavaScript | TypeScript | React | Next
 - 📱 &nbsp; React Native
-- 🎨 &nbsp; Bootstrap | AntDesign | Material UI | Tailwind | PrimeReact
+- 🎨 &nbsp; AntDesign | Material UI | PrimeReact | Tailwind | Bootstrap
 - 🔧 &nbsp; Git | Github | Gitlab
 - 🖥 &nbsp; Figma | Adobe XD | Adobe Photoshop | Adobe Illustrator
 
