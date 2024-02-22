@@ -6,11 +6,11 @@ Every day, I strive to push the boundaries of my knowledge, ensuring that I stay
 
 <h3> 🛠️ Tech Stack: </h3>
 
-&nbsp; HTML | CSS (SCSS) | JavaScript | TypeScript
-&nbsp; React | Next | React Native
-&nbsp; AntDesign | Material UI | PrimeReact | Tailwind | Bootstrap
-&nbsp; Git | Github | Gitlab
-&nbsp; Figma | Adobe XD | Adobe Photoshop | Adobe Illustrator
+- &nbsp; HTML | CSS (SCSS) | JavaScript | TypeScript
+- &nbsp; React | Next | React Native
+- &nbsp; AntDesign | Material UI | PrimeReact | Tailwind | Bootstrap
+- &nbsp; Git | Github | Gitlab
+- &nbsp; Figma | Adobe XD | Adobe Photoshop | Adobe Illustrator
 
 <br/>
 
