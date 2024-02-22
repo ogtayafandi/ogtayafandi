@@ -7,11 +7,15 @@ Every day, I strive to push the boundaries of my knowledge, ensuring that I stay
 
 🛠️ Tech Stack:
 <br/>
-- HTML | CSS (SCSS) | JavaScript | TypeScript
-- React | Next | React Native
-- AntDesign | Material UI | PrimeReact | Tailwind | Bootstrap
-- Git | Github | Gitlab
-- Figma | Adobe XD | Adobe Photoshop | Adobe Illustrator
+HTML | CSS (SCSS) | JavaScript | TypeScript
+<br/>
+React | Next | React Native
+<br/>
+AntDesign | Material UI | PrimeReact | Tailwind | Bootstrap
+<br/>
+Git | Github | Gitlab
+<br/>
+Figma | Adobe XD | Adobe Photoshop | Adobe Illustrator
 
 <br/>
 
