@@ -2,7 +2,6 @@ Hello! 👋 I'm Oktay, a passionate Front-End Developer based in Baku, Azerbaija
 
 I've cultivated my skills through dedication and a relentless pursuit of improvement. 🎯
 Every day, I strive to push the boundaries of my knowledge, ensuring that I stay at the forefront of industry trends and technologies. 💡
-  
 <br/>
 
 <h3> 🛠️ Tech Stack: </h3>
