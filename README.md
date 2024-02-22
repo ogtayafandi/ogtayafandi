@@ -5,8 +5,8 @@ I've cultivated my skills through dedication and a relentless pursuit of improve
 Every day, I strive to push the boundaries of my knowledge, ensuring that I stay at the forefront of industry trends and technologies. 💡
 <br/>
 
-<h3> 🛠️ Tech Stack: </h3>
-
+🛠️ Tech Stack:
+<br/>
 - HTML | CSS (SCSS) | JavaScript | TypeScript
 - React | Next | React Native
 - AntDesign | Material UI | PrimeReact | Tailwind | Bootstrap
@@ -15,5 +15,6 @@ Every day, I strive to push the boundaries of my knowledge, ensuring that I stay
 
 <br/>
 
-- 💬 &nbsp; Linkedin: <a href="https://www.linkedin.com/in/oktayafandi/">oktayafandi</a>
-- 📩 &nbsp; Email: <a href="mailto:oktayafandiev@gmail.com">oktayafandiev@gmail.com</a>
+💬 &nbsp; Linkedin: <a href="https://www.linkedin.com/in/oktayafandi/">oktayafandi</a>
+<br/>
+📩 &nbsp; Email: <a href="mailto:oktayafandiev@gmail.com">oktayafandiev@gmail.com</a>
