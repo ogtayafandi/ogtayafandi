@@ -1,4 +1,4 @@
-Hello! 👋 I'm Oktay, a passionate Front-End Developer based in Baku, Azerbaijan. With a career spanning since 2022, I thrive on the challenges of crafting visually appealing web experiences and I've been dedicated to crafting user-friendly web experiences, with a focus on ERP systems. 🚀
+Hello! 👋 I'm Oktay, a passionate Front-End Developer based in Baku, Azerbaijan. With a career spanning since 2022, I thrive on the challenges of crafting user-friendly, visually appealing web sites and I've been dedicated to crafting user-friendly web experiences, with a focus on ERP systems. 🚀
 
 I've cultivated my skills through dedication and a relentless pursuit of improvement. 🎯
 <br/>
