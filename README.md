@@ -17,6 +17,6 @@ Git | Github | Gitlab
 <br/>
 Figma | Adobe XD | Adobe Photoshop | Adobe Illustrator
 
-💬 Linkedin: <a href="https://www.linkedin.com/in/oktayafandi/">oktayafandi</a>
+💬 Linkedin: <a href="https://www.linkedin.com/in/ogtayafandi/">oktayafandi</a>
 <br/>
 📩 Email: <a href="mailto:oktayafandiev@gmail.com">oktayafandiev@gmail.com</a>
