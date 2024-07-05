@@ -11,6 +11,10 @@ HTML | CSS (SCSS) | JavaScript | TypeScript
 <br/>
 React | Next | React Native
 <br/>
+Node.js | Express.js
+<br/>
+PostgreSQL
+<br/>
 AntDesign | Material UI | PrimeReact | Tailwind | Bootstrap
 <br/>
 Git | Github | Gitlab
