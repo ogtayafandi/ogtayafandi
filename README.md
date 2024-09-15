@@ -23,4 +23,6 @@ Figma | Adobe XD | Adobe Photoshop | Adobe Illustrator
 
 💬 Linkedin: <a href="https://www.linkedin.com/in/ogtayafandi/">ogtayafandi</a>
 <br/>
+📝 Medium: <a href="https://medium.com/@ogtayafandi">ogtayafandi</a>
+<br/>
 📩 Email: <a href="mailto:afandiogtay@gmail.com">afandiogtay@gmail.com</a>
