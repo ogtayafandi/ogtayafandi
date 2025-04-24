@@ -15,7 +15,7 @@ Node.js | Express.js
 <br/>
 PostgreSQL
 <br/>
-AntDesign | Material UI | PrimeReact | Tailwind | Bootstrap
+AntDesign | ShadCn | Material UI | PrimeReact | Tailwind | Bootstrap
 <br/>
 Git | Github | Gitlab
 <br/>
