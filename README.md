@@ -17,7 +17,6 @@ AntDesign | ShadCn | Chakra UI | Material UI | PrimeReact | Tailwind | Bootstrap
 <br/>
 Github | Gitlab
 <br/>
-Figma | Adobe XD | Adobe Photoshop | Adobe Illustrator
 
 💬 Linkedin: <a href="https://www.linkedin.com/in/ogtayafandi/" target="_blank">ogtayafandi</a>
 <br/>
