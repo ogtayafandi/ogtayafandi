@@ -11,13 +11,11 @@ HTML | CSS (SCSS) | JavaScript | TypeScript
 <br/>
 React | Next | React Native
 <br/>
-Node.js | Express.js
+Redux (Toolkit, Toolkit Query) | MobX | Zustand
 <br/>
-PostgreSQL
+AntDesign | ShadCn | Chakra UI | Material UI | PrimeReact | Tailwind | Bootstrap
 <br/>
-AntDesign | ShadCn | Material UI | PrimeReact | Tailwind | Bootstrap
-<br/>
-Git | Github | Gitlab
+Github | Gitlab
 <br/>
 Figma | Adobe XD | Adobe Photoshop | Adobe Illustrator
 
