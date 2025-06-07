@@ -9,7 +9,7 @@ Every day, I strive to push the boundaries of my knowledge, ensuring that I stay
 <br/>
 HTML | CSS (SCSS) | JavaScript | TypeScript
 <br/>
-React | Next | React Native
+React | Angular | Next | React Native
 <br/>
 Redux (Toolkit, Toolkit Query) | MobX | Zustand
 <br/>
