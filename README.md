@@ -1,8 +1,11 @@
-Hello! 👋 I'm Ogtay, a passionate Front-End Developer based in Baku, Azerbaijan. With a career spanning since 2022, I thrive on the challenges of crafting user-friendly, visually appealing web sites and I've been dedicated to crafting user-friendly web experiences, with a focus on ERP systems. 🚀
-
-I've cultivated my skills through dedication and a relentless pursuit of improvement. 🎯
+Hello! 👋 I'm Ogtay, a passionate Front-End Developer based in Baku, Azerbaijan. 
 <br/>
-Every day, I strive to push the boundaries of my knowledge, ensuring that I stay at the forefront of industry trends and technologies. 💡
+Since 2022, I have been building clean, easy-to-use websites and web apps — mostly focused on ERP systems. 🚀
+<br/>
+For the past 3 years, I’ve been working with React, Next.js, JavaScript, and TypeScript, and I continue to use them actively. I also build mobile apps using React Native. Recently, I’ve started working with Angular to expand my skills. 💻
+<br/>
+I’m always learning and keeping up with the latest web and mobile technologies. 🎯
+Creating smooth and useful user experiences is what I enjoy most. 💡
 <br/>
 
 🛠️ Tech Stack:
@@ -13,9 +16,9 @@ React | Angular | Next | React Native
 <br/>
 Redux (Toolkit, Toolkit Query) | MobX | Zustand
 <br/>
-AntDesign | ShadCn | Chakra UI | Material UI | PrimeReact | Tailwind | Bootstrap
+AntDesign | ShadCn | DevExtreme | Material UI | PrimeReact | Tailwind | Bootstrap
 <br/>
-Github | Gitlab
+Github | Gitlab | Bitbucket
 <br/>
 
 💬 Linkedin: <a href="https://www.linkedin.com/in/ogtayafandi/" target="_blank">ogtayafandi</a>
