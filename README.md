@@ -1,4 +1,4 @@
-Hello! 👋 I'm Ogtay, a passionate Front-End Developer based in Baku, Azerbaijan. 
+Hello! 👋 I'm Ogtay, a passionate Front-End (Web & Mobile) Developer based in Baku, Azerbaijan. 
 <br/>
 
 Since 2022, I have been building clean, easy-to-use websites and web apps — mostly focused on ERP systems. 🚀
