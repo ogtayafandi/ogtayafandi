@@ -8,6 +8,7 @@ For the past 3 years, I’ve been working with React, Next.js, JavaScript, and T
 <br/>
 
 I’m always learning and keeping up with the latest web and mobile technologies. 🎯
+<br/>
 Creating smooth and useful user experiences is what I enjoy most. 💡
 <br/>
 
