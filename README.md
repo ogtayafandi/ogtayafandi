@@ -14,6 +14,7 @@ Alongside development, I’m also deeply interested in Artificial Intelligence a
 <br />
 
 I’m always learning and keeping up with the latest web, mobile, and AI technologies. 🎯
+<br />
 Creating smooth, meaningful, and intelligent user experiences is what I enjoy most. 💫
 <br />
 
