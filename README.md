@@ -1,17 +1,21 @@
-Hello! 👋 I'm Ogtay, a passionate Front-End (Web & Mobile) Developer based in Baku, Azerbaijan. 
-<br/>
+Hello! 👋 I'm Ogtay, a passionate Front-End (Web & Mobile) Developer based in Baku, Azerbaijan.
+<br />
+
+Ever since my childhood, I’ve been deeply passionate about technology and creating things that people can actually use. That early curiosity eventually led me to the world of web and mobile development — a place where creativity meets logic. 💡
+<br />
 
 Since 2022, I have been building clean, easy-to-use websites and web apps — mostly focused on ERP systems. 🚀
-<br/>
+<br />
 
-For the past 3 years, I’ve been working with React, Next.js, JavaScript, and TypeScript, and I continue to use them actively. I also build mobile apps using React Native. Recently, I’ve started working with Angular to expand my skills. 💻
-<br/>
+For the past 3 years, I’ve been working with React, Next, TypeScript, and JavaScript, and I continue to use them actively. I also build mobile apps using React Native. Recently, I’ve started working with Angular to expand my skill set. 💻
+<br />
 
-I’m always learning and keeping up with the latest web and mobile technologies. 🎯
-<br/>
-Creating smooth and useful user experiences is what I enjoy most. 💡
-<br/>
+Alongside development, I’m also deeply interested in Artificial Intelligence and its role in modern development workflows. I actively explore and utilize AI-powered tools that enhance productivity, optimize code quality, and accelerate the development process. 🤖
+<br />
 
+I’m always learning and keeping up with the latest web, mobile, and AI technologies. 🎯
+Creating smooth, meaningful, and intelligent user experiences is what I enjoy most. 💫
+<br />
 
 🛠️ Tech Stack:
 <br/>
