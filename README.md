@@ -7,7 +7,7 @@ Ever since my childhood, I’ve been deeply passionate about technology and crea
 Since 2022, I have been building clean, easy-to-use websites and web apps — mostly focused on ERP systems. 🚀
 <br />
 
-For the past 3 years, I’ve been working with React, Next, TypeScript, and JavaScript, and I continue to use them actively. I also build mobile apps using React Native. Recently, I’ve started working with Angular to expand my skill set. 💻
+For the past 4 years, I’ve been working with React, Next, TypeScript, and JavaScript, and I continue to use them actively. I also build mobile apps using React Native. Recently, I’ve started working with Angular to expand my skill set. 💻
 <br />
 
 Alongside development, I’m also deeply interested in Artificial Intelligence and its role in modern development workflows. I actively explore and utilize AI-powered tools that enhance productivity, optimize code quality, and accelerate the development process. 🤖
